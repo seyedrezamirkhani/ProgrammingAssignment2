@@ -1,5 +1,5 @@
 ## The makeCacheMatrix and cacheSolve functions work together to cache (using
-## global variables) and return the inverse of a matrix. Then ensures the 
+## global variables) and return the inverse of a matrix. This ensures the 
 ## processing required for generating the inverse for a given matrix is only
 ## performed once
 ## !NOTE! It is assumed that the matrix supplied is always invertible 
